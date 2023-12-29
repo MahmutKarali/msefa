@@ -118,7 +118,8 @@
 
                                         <div class="intro-content">
                                             <!-- End .h3 intro-subtitle -->
-                                            <h1 class="intro-title" style="font-size : clamp(2rem, 8vw, 3rem);">
+                                            <h1 class="intro-title"
+                                                style="font-size : clamp(2rem, 8vw, 3rem); background: rgba(1,1,1, .5);margin-right: 20px;">
                                                 Burası Sırrı Yüce Olsun Gavs-ul Azam Seyyid
                                                 Abdulkadir Geylani'nin (k.s) Pak Dergahıdır.
                                             </h1>
@@ -145,7 +146,9 @@
 
                                         <div class="intro-content">
                                             <!-- End .h3 intro-subtitle -->
-                                            <h1 class="intro-title" style="font-size : clamp(2rem, 8vw, 3rem);">Bizim
+                                            <h1 class="intro-title"
+                                                style="font-size : clamp(2rem, 8vw, 3rem); background: rgba(1,1,1, .5);margin-right: 20px;">
+                                                Bizim
                                                 dergahımız, ahiret kapısıdır. Burada ibadet,
                                                 zikir ve dini sohbet vardır. Bize ALLAH'ı (c.c) arayan, ahireti
                                                 arzulayan katılır.
@@ -173,7 +176,9 @@
 
                                         <div class="intro-content">
                                             <!-- End .h3 intro-subtitle -->
-                                            <h1 class="intro-title" style="font-size : clamp(2rem, 8vw, 3rem);">Biz
+                                            <h1 class="intro-title"
+                                                style="font-size : clamp(2rem, 8vw, 3rem); background: rgba(1,1,1, .5);margin-right: 20px;">
+                                                Biz
                                                 sizin "La ilahe illallah" söylemenizi istiyoruz.
                                                 Söylerseniz sultan olursunuz. Söylemezseniz köleliğe devam edersiniz.
                                             </h1>
@@ -274,6 +279,19 @@
                                     </div><!-- End .col-md-6 -->
                                 </div><!-- End .row -->
                             </div><!-- End .video-banner-box -->
+                        </div><!-- End .container -->
+                    </div><!-- End .video-banner bg-image -->
+
+                    <div class="video-banner video-banner-bg bg-image text-center"
+                        style="background-image: url(assets/images/kapak.jpg)">
+                        <div class="container">
+                            <h3 class="video-banner-title h1 text-white"><span>7/24 Sohbetleri
+                                    Dinleyebilirsiniz</span>
+                                <strong>HUZUR YOLU FM</strong>
+                            </h3><!-- End .video-banner-title -->
+                            <a onclick="playAudio()" class="btn-video btn-iframe">
+                                <i id="radioStatus" class="fa fa-play"></i>
+                            </a>
                         </div><!-- End .container -->
                     </div><!-- End .video-banner bg-image -->
 
@@ -750,6 +768,10 @@
                             </div><!-- End .tab-content -->
                         </div><!-- End .col-md-6 -->
                     </div><!-- End .row -->
+                    <div id="deneme"></div>
+                    <audio id="music" controls="controls">
+                        <source src="https://ozelip.yayintescil.com/8022/stream" type="audio/mpeg">
+                    </audio>
                 </div><!-- End .page-content -->
             </div><!-- End .container -->
     </div>
@@ -848,17 +870,17 @@
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/constant.js"></script>
     <script>
         async function playAudio() {
-            var audio = new Audio('https://ozelip.yayintescil.com/8022/stream');
-            audio.type = 'audio/wav';
-
-            try {
-                await audio.play();
-                console.log('Playing...');
-            } catch (err) {
-                console.log('Failed to play...' + err);
+            let music = document.getElementById('music');
+            if (document.getElementById("radioStatus").className == "fa fa-play") {
+                document.getElementById("radioStatus").className == "fa fa-pause"
+            } else {
+                document.getElementById("radioStatus").className == "fa fa-play"
             }
+
+            music.play();
         }
 
         async function stopAudio() {
@@ -872,6 +894,10 @@
                 console.log('Failed to play...' + err);
             }
         }
+
+        document.getElementById("deneme").innerHTML = silsile["hzmuhammed"];
+        document.getElementById("radioPause").style.visibility = "hidden";
+
     </script>
 </body>
 
