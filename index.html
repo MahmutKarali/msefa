@@ -285,15 +285,19 @@
                     <div class="video-banner video-banner-bg bg-image text-center"
                         style="background-image: url(assets/images/kapak.jpg)">
                         <div class="container">
-                            <h3 class="video-banner-title h1 text-white"><span>7/24 Sohbetleri
+                            <h3 class="video-banner-title h1 text-white"><span>7/24 Sohbet Kayıtlarını
                                     Dinleyebilirsiniz</span>
                                 <strong>HUZUR YOLU FM</strong>
                             </h3><!-- End .video-banner-title -->
-                            <a onclick="playAudio()" class="btn-video btn-iframe">
-                                <i id="radioStatus" class="fa fa-play"></i>
+                            <a id="playIcon" onclick="playAudio()" class="btn-video btn-iframe">
+                                <i class="fa fa-play"></i>
+                            </a>
+                            <a id="pauseIcon" onclick="stopAudio()" class="btn-video btn-iframe">
+                                <i class="fa fa-pause"></i>
                             </a>
                         </div><!-- End .container -->
                     </div><!-- End .video-banner bg-image -->
+
 
                     <div class="bg-light-2 pt-7 pb-6 testimonials">
                         <div class="container">
@@ -874,21 +878,26 @@
     <script>
         async function playAudio() {
             let music = document.getElementById('music');
-            if (document.getElementById("radioStatus").className == "fa fa-play") {
-                document.getElementById("radioStatus").className == "fa fa-pause"
-            } else {
-                document.getElementById("radioStatus").className == "fa fa-play"
-            }
-
             music.play();
+
+            document.getElementById("playIcon").style.visibility = "hidden"
+            document.getElementById("playIcon").style.display = "none"
+
+            document.getElementById("pauseIcon").style.visibility = "visible"
+            document.getElementById("pauseIcon").style.display = "inline-flex"
         }
 
         async function stopAudio() {
-            var audio = new Audio('https://ozelip.yayintescil.com/8022/stream');
-            audio.type = 'audio/wav';
+            let music = document.getElementById('music');
 
+            document.getElementById("pauseIcon").style.visibility = "hidden"
+            document.getElementById("pauseIcon").style.display = "none"
+
+
+            document.getElementById("playIcon").style.visibility = "visible"
+            document.getElementById("playIcon").style.display = "inline-flex"
             try {
-                await audio.stopAudio();
+                await music.stopAudio();
                 console.log('Playing...');
             } catch (err) {
                 console.log('Failed to play...' + err);
@@ -896,7 +905,8 @@
         }
 
         document.getElementById("deneme").innerHTML = silsile["hzmuhammed"];
-        document.getElementById("radioPause").style.visibility = "hidden";
+        document.getElementById("pauseIcon").style.visibility = "hidden";
+        document.getElementById("pauseIcon").style.display = "none";
 
     </script>
 </body>
