@@ -290,10 +290,10 @@
                                 <strong>HUZUR YOLU FM</strong>
                             </h3><!-- End .video-banner-title -->
                             <a id="playIcon" onclick="playAudio()" class="btn-video btn-iframe">
-                                <img src="assets/images/play.png">
+                                <img src="assets/images/play.png" style="height: 20px;">
                             </a>
                             <a id="pauseIcon" onclick="stopAudio()" class="btn-video btn-iframe">
-                                <img src="assets/images/pause.png"> </img>
+                                <img src="assets/images/pause.png" style="height: 20px;"> </img>
                             </a>
                         </div><!-- End .container -->
                     </div><!-- End .video-banner bg-image -->
@@ -772,8 +772,7 @@
                             </div><!-- End .tab-content -->
                         </div><!-- End .col-md-6 -->
                     </div><!-- End .row -->
-                    <div id="deneme"></div>
-                    <audio id="music" controls="controls">
+                    <audio id="music" controls="controls" style="visibility: hidden;display: none;">
                         <source src="https://ozelip.yayintescil.com/8022/stream" type="audio/mpeg">
                     </audio>
                 </div><!-- End .page-content -->
@@ -897,14 +896,13 @@
             document.getElementById("playIcon").style.visibility = "visible"
             document.getElementById("playIcon").style.display = "inline-flex"
             try {
-                await music.stopAudio();
+                await music.pause();
                 console.log('Playing...');
             } catch (err) {
                 console.log('Failed to play...' + err);
             }
         }
 
-        document.getElementById("deneme").innerHTML = silsile["hzmuhammed"];
         document.getElementById("pauseIcon").style.visibility = "hidden";
         document.getElementById("pauseIcon").style.display = "none";
 

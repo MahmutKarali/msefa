@@ -236,5 +236,37 @@ var silsile = {
 	<p>Peygamber Efendimizin vef&acirc;tına &uuml;&ccedil; g&uuml;n kala Cen&acirc;b-ı Hak her g&uuml;n Cebr&acirc;il Aleyhisselam&rsquo;ı g&ouml;ndererek Res&ucirc;l&uuml;&rsquo;n&uuml;n hatırını sormuştu. Son g&uuml;n olunca Cebr&acirc;il Aleyhisselam bu sefer yanında &ouml;l&uuml;m meleği Azr&acirc;il Aleyhisselam de bulunduğu h&acirc;lde geldi. Cebr&acirc;il Aleyhisselam: &ldquo;&ndash;Ey All&acirc;h&rsquo;ın Res&ucirc;l&uuml;! &Ouml;l&uuml;m meleği senin yanına girmek i&ccedil;in izin istiyor! H&acirc;lbuki o, Sen&rsquo;den &ouml;nce hi&ccedil;bir &Acirc;demoğlunun yanına girmek i&ccedil;in izin istememiştir! Sen&rsquo;den sonra da hi&ccedil;bir &Acirc;demoğlunun yanına girmek i&ccedil;in izin istemeyecektir! Kendisine izin veriniz!&rdquo; dedi. &Ouml;l&uuml;m meleği i&ccedil;eri girip Peygamber Efendimizin &ouml;n&uuml;nde durdu ve: &ldquo;&ndash;Y&acirc; Res&ucirc;lall&acirc;h! Y&uuml;ce All&acirc;h beni Sana g&ouml;nderdi ve Sen&rsquo;in her emrine itaat etmemi bana emretti! Sen istersen r&ucirc;hunu alacağım! İstersen, r&ucirc;hunu sana bırakacağım!&rdquo; dedi. Peygamber Efendimiz: &ldquo;&ndash;Ey &ouml;l&uuml;m meleği! Sen (ger&ccedil;ekten) b&ouml;yle yapacak mısın?&rdquo; diye sordu. Azr&acirc;il Aleyhisselam: &ldquo;&ndash;Ben, emredeceğin her hususta sana itaatla emrolundum!&rdquo; dedi.<br />
 	Cebr&acirc;il Aleyhisselam: &ldquo;&ndash;Ey Ahmed! Y&uuml;ce All&acirc;h seni &ouml;zl&uuml;yor!&rdquo; dedi. Peygamber Efendimiz: &ldquo;&ndash;All&acirc;h katında olan, daha hayırlı ve daha devamlıdır. Ey &ouml;l&uuml;m meleği! Haydi, emrolunduğun şeyi yerine getir! R&ucirc;humu, canımı al!&rdquo; buyurdu.<br />
 	Peygamber Efendimiz, yanındaki su kabına iki elini batırıp ıslak ellerini y&uuml;z&uuml;ne s&uuml;rd&uuml; ve: &ldquo;&ndash;L&acirc; il&acirc;he illall&acirc;h! &Ouml;l&uuml;m&uuml;n, akılları başlardan gideren ıztırap ve şiddetleri var!&rdquo; buyurduktan sonra, elini kaldırdı, g&ouml;zlerini evin tavanına dikti ve: &ldquo;&ndash;Ey All&acirc;h&rsquo;ım! Refik-ı A&rsquo;l&acirc;, Ref&icirc;k-ı A&rsquo;l&acirc; (y&acirc;ni y&uuml;ce dost, y&uuml;ce dost)!..&rdquo; diye diye Rabb&rsquo;ine duyduğu aşk ve iştiy&acirc;kın tez&acirc;h&uuml;r&uuml; olan nice ulv&icirc; h&acirc;tıralarla dolu bir &ouml;mr&uuml; ardında bırakarak bu f&acirc;n&icirc; &acirc;lemden hak&icirc;k&icirc; &acirc;leme hicret etti</p>
-	`
+	`,
+	"hzali":
+		`<h1>Hz. Ali (K.V.)</h1>
+
+<p><br />
+İlk M&uuml;sl&uuml;manlardan olan Hazreti Ali (Radıyall&acirc;hu Anh), Sah&acirc;be-i Kir&acirc;m&rsquo;ın b&uuml;y&uuml;klerinden olup&nbsp;<a href="https://www.m-sefa.com/hz-muhammed-mustafa-sav/" rel="noreferrer noopener" target="_blank">Peygamber Efendimiz&nbsp;</a>(Sall&acirc;ll&acirc;hu Aleyhi ve Sellem)&rsquo; in damadı, amcasının oğlu ve d&ouml;rd&uuml;nc&uuml; halifesidir. K&uuml;nyesi Ebu&rsquo;l-H&uuml;seyin olmakla beraber, Peygamber Efendimiz (Sall&acirc;ll&acirc;hu Aleyhi ve Sellem)in iltif&acirc;tı vesilesiyle &ldquo;Eb&ucirc; T&uuml;r&acirc;b&rdquo; olarak da anılmıştır. İsl&acirc;m ile m&uuml;şerref olmadan &ouml;nce dahi putları ta&lsquo;z&icirc;m etmediğinden dolayı,&ldquo;Kerremell&acirc;hu Vecheh&ucirc;&rdquo; olarak ta&lsquo;z&icirc;m edilmektedir. &ldquo;Kerr&acirc;r&rdquo; ve &ldquo;Esedull&acirc;hi&rsquo;l-Ğ&acirc;lib&rdquo; unvanları kahramanlık ve cesaretini ifade ederken, &ldquo;M&uuml;rteza&rdquo; lakabı ise, takdire g&ouml;sterdiği y&uuml;ksek rız&acirc;yı bey&acirc;n etmektedir. Hazreti Osman (Radıyall&acirc;hu Anh)&rsquo;ın şeh&acirc;detinin ardından, şeh&icirc;d edilinceye<br />
+dek, yaklaşık beş sene halifelik yapmıştır. Hz. Ali ilk m&uuml;sl&uuml;man erkektir Hz. Ali 6 yaşında iken Peygamberimiz (Sav) onu kendi evine g&ouml;t&uuml;rd&uuml;. Terbiye ve himayesini bizzat kendisi &uuml;stlendi. Hz. Ali Peygambere ilk iman edenlerdendir. Hatice validemizden sonra M&uuml;sl&uuml;man olmuştur. Hz. Ali, Peygamberimizin (Sav) kızı Hz. Fatime (as) ile evlenmişti. Hz. Ali<br />
+ile Hz. Fatıma&rsquo;nın, Hasan, H&uuml;seyin, Muhsin, &Uuml;mm&uuml; G&uuml;ls&uuml;m ve Zeyneb adında beş &ccedil;ocuğu oldu. Hz. Ali Hayatı nda &ouml;nemli bir nokta, Peygamberimizin vefatıdır. Peygamberimizin vefatında Hz. Ali 33 yaşındaydı. Hz. Peygamber&rsquo;in<br />
+(Sav) vefatı sırasında yanında bulunanların başında geliyordu. Hz. Ebu Bekir (ra) halife se&ccedil;ildiği sırada Hz. Ali (ra) Resulullah&rsquo;ın h&uuml;cresinde tekfin ile meşgul idi. Resulullah d&ouml;neminde ger&ccedil;ekleşen savaşların &ccedil;oğunda, m&uuml;sl&uuml;manların<br />
+zaferi, Hz. Ali&rsquo;nin kılıcıyla ger&ccedil;ekleşmiş, bu savaşlardaki fetihleri nedeni ile Hz. Muhammed (Sav) &ldquo;Ali&rsquo;den yiğit ve Z&uuml;lfikar&rsquo;dan başka kılı&ccedil; yoktur&rdquo; diyen Hadis&rsquo;i Kudsi de Hz. Ali&rsquo;yi &ouml;vm&uuml;şt&uuml;r.</p>
+
+<h2><br />
+KERREMALLAHU VECHEH NE DEMEK?</h2>
+
+<p><br />
+&Ccedil;ocukluğunda hi&ccedil; puta tapmadığı i&ccedil;in daha sonraları Kerremallahu vecheh: Allah y&uuml;z&uuml;n&uuml; m&uuml;kerrem kılsın, şereflendirsin!&rdquo; du&acirc;sıyla anılmıştır. Sahabe arasında bu şekilde y&acirc;d edilen tek kişidir.HZ. ALİ&rsquo;NİN (R.A.) LAKAPLARI<br />
+Tasavvuf erb&acirc;bı, Hz. Ali&rsquo;ye -kerremallahu veche- &ldquo;Ş&acirc;h-ı Vel&acirc;yet&rdquo; ve &ldquo;Sult&acirc;n&uuml;&rsquo;l-Evliy&acirc;&rdquo; l&acirc;kaplarını uygun g&ouml;rm&uuml;şlerdir.<br />
+Abdulmuttalip, Peygamber -sallallahu aleyhi ve sellem- Efendimiz, 8 yaşındayken vef&acirc;t ettiğinde, Hz. Ali&rsquo;nin -kerremallahu veche- annesi F&acirc;tıma Hatun -radıyallahu anh- Efendimiz&rsquo;e m&uuml;rebb&icirc;lik ve annelik yapmıştır. Kendi<br />
+&ccedil;ocukları a&ccedil; dururken Peygamberimiz&rsquo;in karnını doyurur, kendi &ccedil;ocuklarının &uuml;st&uuml; başı toz toprak i&ccedil;inde dururken, o &ouml;nce Peygamberimizin sa&ccedil;ını başını tarar, g&uuml;lyağıyla yağlardı. Res&ucirc;lullah -sallallahu aleyhi ve sellem- Efendimiz, daha sonraki hayatında bu m&uuml;barek hanımı sık sık ziyaret ederdi. F&acirc;tıma H&acirc;tun -radıyallahu anhfazilet s&acirc;hibi, s&acirc;lih ameller işleyen s&acirc;lih&acirc; bir İsl&acirc;m hanımı idi. Hicr&icirc; 4. senede Medine&rsquo;de vefat etti.</p>
+
+<h2><br />
+PEYGAMBERİMİZİN KARDEŞİ</h2>
+
+<p>Hicret&rsquo;in 5. ayında ger&ccedil;ekleştirilen Mu&acirc;h&acirc;t/Kardeşlik akdinde Res&ucirc;lullah &ndash; sallallahu aleyhi ve sellem- Efendimiz, Hz. Ali&rsquo;yi -kerremallahu vechekendisine kardeş olarak se&ccedil;ti. O bu iltifat ve lutuf karşısında son derece duygulandı ve:<br />
+&ldquo;&ndash;Ben Allah&rsquo;ın kulu, Res&ucirc;lullah&rsquo;ın da kardeşiyim&rdquo; diyerek sevin&ccedil; g&ouml;zyaşları d&ouml;kt&uuml;.</p>
+
+<h2><br />
+ALLAH&rsquo;IN ARSLANI</h2>
+
+<p><br />
+Hz. Ali -kerremallahu veche- Peygamber -sallallahu aleyhi ve sellem- Efendimiz&rsquo;in devamlı yanında bulundu ve b&uuml;t&uuml;n cihat hareketlerine katıldı. Uhud&rsquo;da ve Huneyn&rsquo;de muhtelif yerlerinden yara aldı. Bedir&rsquo;de sancaktardı. Aynı zamanda<br />
+keşif kolunun başındaydı, h&acirc;kim noktaları tesbit ederek Nebiyy-i Ekrem Efendimiz&rsquo;e bildirdi. Bu mevk&icirc;leri işgal ederek Bedir&rsquo;de m&uuml;him bir savaş harek&acirc;tını başarıya ulaştırdı.</p>`
+
 };
